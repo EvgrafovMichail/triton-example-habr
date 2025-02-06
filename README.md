@@ -48,7 +48,7 @@
     pip install -r requirements-test.txt
     ```
 
-- Выполните скрипт [test_server](./test_server.py):
+- Выполните скрипт [test_server](./test_server.py) с запущенным тритон сервером:
 
     ```console
     python test_server.py
